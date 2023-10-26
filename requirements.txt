@@ -1,4 +1,6 @@
 pandas
+openpyxl
+xlsxwriter
 matplotlib
 koreanize-matplotlib
 jupyter
