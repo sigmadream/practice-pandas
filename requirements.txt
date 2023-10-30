@@ -3,4 +3,5 @@ openpyxl
 xlsxwriter
 matplotlib
 koreanize-matplotlib
+seaborn
 jupyter
