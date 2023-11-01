@@ -1,6 +1,7 @@
 pandas
 openpyxl
 xlsxwriter
+scikit-learn
 matplotlib
 koreanize-matplotlib
 seaborn
