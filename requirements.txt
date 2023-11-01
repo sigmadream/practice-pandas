@@ -7,3 +7,5 @@ koreanize-matplotlib
 seaborn
 folium
 jupyter
+requests
+cufflinks
